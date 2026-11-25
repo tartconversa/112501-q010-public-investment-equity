@@ -1,0 +1,4 @@
+facility,sector,township,period,capacity,used,source_version
+S1,education,Q1,2025,1600,1510,c-1
+H1,health,Q1,2025,820,790,c-1
+H2,health,Q2,2025,460,455,c-1

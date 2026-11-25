@@ -1,0 +1,3 @@
+project,period,service_group,served,access_minutes,maintenance_need
+P3,2025,elderly,320,24,medium
+P1,2025,school_age,110,18,unknown

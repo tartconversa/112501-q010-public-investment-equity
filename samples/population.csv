@@ -1,0 +1,4 @@
+township,group,period,count_low,count_high,trend_version
+Q1,school_age,2025,1800,1950,t-1
+Q1,elderly,2025,900,980,t-1
+Q2,school_age,2025,1200,1320,t-1
